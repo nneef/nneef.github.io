@@ -69,7 +69,7 @@ nav a {
     padding: 5px 10px;
     font-weight: 400;
     text-decoration: none;
-    color: var(--main);
+    color: var(--darker);
 }
 
 /* NAVIGATION BAR USABILITY */
